@@ -1,2 +1,2 @@
 # 100-days-of-Rust
-100 days of coding in Rust from beginner level to advanced concepts with small and concise programs...i do this along with c to improve my understanding of programming from two different perspectives ...nt
+100 days of coding in Rust from beginner level to advanced concepts with small and concise programs...i do this along with c to improve my understanding of programming from two different perspectives ...

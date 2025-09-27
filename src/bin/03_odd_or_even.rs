@@ -14,7 +14,7 @@ fn odd_or_even(v: i64) {
 }
 fn odd_or_even_user_in() {
     let mut v: String = String::new();
-    print!("Enter the number you want find whether it is <odd> or <even> :");
+    print!("Enter the number you want to find whether it is <odd> or <even> :");
     io::stdout()
         .flush()
         .expect("Failed to flush the output buffer");

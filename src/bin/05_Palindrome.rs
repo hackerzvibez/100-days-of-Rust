@@ -34,7 +34,7 @@ fn until_user_end() {
         match palindrome(&string) {
             Ok(true) => println!("It is a palindrome"),
             Ok(false) => println!("It is not a palindrome"),
-            Err(()) => println!("<Error!>While Checking for palindrome"),
+            Err(()) => println!("<Error!> While Checking for palindrome"),
         }
     }
 }
